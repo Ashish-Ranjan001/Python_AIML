@@ -1,0 +1,18 @@
+{
+    "patients": [
+        {
+            "Name": "Ashish Ranjan",
+            "Age": 22,
+            "Gender": "M",
+            "Disease": "Fever"
+        }
+    ],
+    "doctors": [
+        {
+            "Name": "Yash ",
+            "Age": 56,
+            "Gender": "M",
+            "Specialization": "Neurologist"
+        }
+    ]
+}
